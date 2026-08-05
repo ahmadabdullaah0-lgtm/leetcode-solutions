@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -51,10 +53,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Sorting
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
