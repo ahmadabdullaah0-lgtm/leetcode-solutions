@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
