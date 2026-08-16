@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0566-reshape-the-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
