@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
