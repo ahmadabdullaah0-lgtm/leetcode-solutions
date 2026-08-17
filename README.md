@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0263-ugly-number) |
 ## Matrix
 |  |
 | ------- |
