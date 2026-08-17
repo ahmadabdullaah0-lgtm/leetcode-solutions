@@ -93,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
