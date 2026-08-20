@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Range Minimum/Maximum Query
 |  |
@@ -150,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
