@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1446-consecutive-characters](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sliding Window
 |  |
 | ------- |
