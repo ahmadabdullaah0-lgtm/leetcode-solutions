@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
