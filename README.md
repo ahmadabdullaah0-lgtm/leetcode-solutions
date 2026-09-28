@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Range Minimum/Maximum Query
