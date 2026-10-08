@@ -18,7 +18,7 @@ class Solution {
         return buildTree(nums, 0, nums.length - 1);
     }
 
-    private TreeNode buildTree(int[] nums, int left, int right) {
+    public TreeNode buildTree(int[] nums, int left, int right) {
         if (left > right) {
             return null;
         }
