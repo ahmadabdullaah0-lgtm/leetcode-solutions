@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 ## Backtracking
 |  |
