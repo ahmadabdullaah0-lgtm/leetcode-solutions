@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/1446-consecutive-characters) |
