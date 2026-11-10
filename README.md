@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/ahmadabdullaah0-lgtm/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Range Minimum/Maximum Query
 |  |
